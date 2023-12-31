@@ -1,0 +1,17 @@
+{
+    "name": "lunadesign/lunaplugins",
+    "description": "Luna Plugins",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Luna Design",
+            "email": "biuro@lunadesign.com.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
